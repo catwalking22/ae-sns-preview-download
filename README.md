@@ -5,6 +5,16 @@ After Effects のプレビューに、TikTok / YouTube Shorts / Instagram Reels 
 - このリポジトリには、アプリのインストーラーだけを置いています（ソースコードはありません）。
 - テンプレートの新しい版と UI のズレの報告は [ae-sns-preview-packs](https://github.com/catwalking22/ae-sns-preview-packs) です。
 
+## 画面
+
+<p>
+  <img src="images/screenshot-preview.webp" alt="After Effects のプレビュー映像に TikTok の疑似UIを重ねた画面" width="48%">
+  <img src="images/screenshot-edit.png" alt="マイテンプレートで YouTube Shorts の危険エリアと警告エリアを編集している画面" width="48%">
+</p>
+
+- 左：After Effects のプレビュー映像に、TikTok の疑似UIを重ねたところ。SNS・テンプレート・UIの種類を切り替え、危険エリア・警告エリアの表示や不透明度を変えられます。
+- 右：マイテンプレートで、危険エリア（赤）と警告エリア（黄）を編集しているところ。ドラッグや数値で位置と大きさを変えられます。
+
 ## 動く環境
 
 - Windows 10（1809 以降）/ 11 の 64 ビット
